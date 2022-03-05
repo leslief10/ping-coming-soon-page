@@ -12,10 +12,8 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments] (#acknowledgments)
-
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -37,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Ping coming soon page]()
+- Live Site URL: [Ping coming soon page](https://leslief10.github.io/ping-coming-soon-page/)
 
 ## My process
 
